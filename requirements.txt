@@ -1,0 +1,9 @@
+torch
+torchvision
+fastapi
+uvicorn[standard]
+python-multipart
+pillow
+transformers>=4.45.0
+huggingface_hub
+safetensors
